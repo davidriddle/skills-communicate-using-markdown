@@ -20,11 +20,11 @@ print('how does this look?')
 exit()
 ```
 
-- with a dash and no space
--[ ] space
--[x] little x
--[] blank?
--[X] okay
+- with a dash and a space
+- [ ] space
+- [x] little x
+- [] blank?
+- [X] okay
 
 - without dashes
 [ ] space
