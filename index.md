@@ -19,3 +19,8 @@ some code
 print('how does this look?')
 exit()
 ```
+
+-[ ] space
+-[x] little x
+-[] blank?
+-[X] okay
